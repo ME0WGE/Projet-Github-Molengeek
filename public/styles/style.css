@@ -4,9 +4,14 @@ body {
 }
 
 nav {
-  background-color: #FF963B;
+  background-color: #ff963b;
 }
 
 section {
   padding-top: 2rem;
+}
+
+.card {
+  background-color: #4f12c2;
+  border-radius: 15px;
 }
