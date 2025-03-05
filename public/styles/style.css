@@ -6,12 +6,21 @@ body {
 nav {
   background-color: #ff963b;
 }
+.nav-neptune {
+  background-color: #3b53e0;
+}
+.nav-jupiter {
+  background-color: #b47448;
+}
+.nav-venus {
+  background-color: #d69b45;
+}
 
 section {
   padding-top: 2rem;
 }
 
 .card {
-  background-color: #4f12c2;
+  background-color: #3b53e0;
   border-radius: 15px;
 }
