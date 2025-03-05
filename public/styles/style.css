@@ -24,3 +24,12 @@ section {
   background-color: #3b53e0;
   border-radius: 15px;
 }
+.card-neptune {
+  background-color: #3b53e0;
+}
+.card-jupiter {
+  background-color: #b47448;
+}
+.card-venus {
+  background-color: #d69b45;
+}
